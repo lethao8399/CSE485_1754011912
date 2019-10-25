@@ -1,3 +1,3 @@
 <?php
-	echo 'Sai';
+	header('Location:login.php');
 ?>
